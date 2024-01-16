@@ -23,6 +23,9 @@ body {
 #canvas-container {
   height: 100%;
   width: 100%;
+  background-image: url(/public/space-230325-195824.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 h1 {
